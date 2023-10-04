@@ -1,0 +1,14 @@
+h1{
+    /* taille de la police */
+    font-size: 50px;
+}
+
+#mon-titre{
+    /* background-color: rgb(44, 183, 31); */
+    background-color: rgb(44, 183, 31);
+}
+
+.red{
+    /* couleur du texte */
+    color: rgb(25, 158, 202);
+}
